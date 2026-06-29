@@ -1,6 +1,6 @@
 1:HL["/Mohd_Aziz_portflio/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/Mohd_Aziz_portflio/_next/static/css/f305a5d68b2efc08.css","style",{"crossOrigin":""}]
-0:["zItHm9DwcCfpDdw08Fqes",[[["",{"children":["projects",{"children":[["slug","enterprise-automation","d"],{"children":["__PAGE__?{\"slug\":\"enterprise-automation\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/Mohd_Aziz_portflio/_next/static/css/f305a5d68b2efc08.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["bL_TORfVFjWWRn3C_qMEa",[[["",{"children":["projects",{"children":[["slug","enterprise-automation","d"],{"children":["__PAGE__?{\"slug\":\"enterprise-automation\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/Mohd_Aziz_portflio/_next/static/css/f305a5d68b2efc08.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[527,["326","static/chunks/326-fbebee25c2ac8517.js","185","static/chunks/app/layout-cbf73426f8d5b399.js"],""]
 6:I[2094,["326","static/chunks/326-fbebee25c2ac8517.js","185","static/chunks/app/layout-cbf73426f8d5b399.js"],"ThemeProvider"]
 7:I[9245,["326","static/chunks/326-fbebee25c2ac8517.js","185","static/chunks/app/layout-cbf73426f8d5b399.js"],""]
