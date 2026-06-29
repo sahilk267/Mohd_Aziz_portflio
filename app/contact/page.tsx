@@ -28,10 +28,10 @@ export default function ContactPage() {
                   <div className="ml-4">
                     <h3 className="text-lg font-semibold text-foreground mb-1">Email</h3>
                     <a
-                      href="mailto:aziz.shaikh@example.com"
+                      href="mailto:aziz.shaikh@aaditechs.in"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      aziz.shaikh@example.com
+                      aziz.shaikh@aaditechs.in
                     </a>
                   </div>
                 </div>
@@ -43,10 +43,10 @@ export default function ContactPage() {
                   <div className="ml-4">
                     <h3 className="text-lg font-semibold text-foreground mb-1">Phone</h3>
                     <a
-                      href="tel:+919876543210"
+                      href="tel:+919773693440"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +91 98765 43210
+                      +91 97736 93440
                     </a>
                   </div>
                 </div>

@@ -9,7 +9,7 @@ import StructuredData from './components/StructuredData';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://sahilk267.github.io/Mohd_Aziz_portflio'),
+  metadataBase: new URL('https://sahilk267.github.io'),
   title: {
     default: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     template: '%s | Mohd Aziz Shaikh Portfolio',
@@ -23,13 +23,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://sahilk267.github.io/Mohd_Aziz_portflio',
+    url: 'https://sahilk267.github.io',
     siteName: 'Mohd Aziz Shaikh Portfolio',
     title: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     description: 'Experienced IT Infrastructure & Network Operations Professional with expertise in enterprise infrastructure, network operations, Linux systems, Windows administration, automation workflows, AI-assisted solution development and business platform architecture.',
     images: [
       {
-        url: '/Mohd_Aziz_portflio/og-image.png',
+        url: '/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Mohd Aziz Shaikh Portfolio',
@@ -40,17 +40,12 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     description: 'Experienced IT Infrastructure & Network Operations Professional with expertise in enterprise infrastructure, network operations, Linux systems, Windows administration, automation workflows, AI-assisted solution development and business platform architecture.',
-    images: ['/Mohd_Aziz_portflio/og-image.png'],
+    images: ['/og-image.png'],
     creator: '@mohdazizshaikh',
   },
   verification: {
     google: 'google-site-verification-code',
   },
-  icons: {
-    icon: '/Mohd_Aziz_portflio/favicon.ico',
-    apple: '/Mohd_Aziz_portflio/apple-touch-icon.png',
-  },
-  manifest: '/Mohd_Aziz_portflio/manifest.json',
 };
 
 export default function RootLayout({

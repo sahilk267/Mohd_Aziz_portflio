@@ -47,8 +47,8 @@ export default function Footer() {
             <h4 className="text-sm font-semibold text-foreground mb-4">Connect</h4>
             <ul className="space-y-2">
               <li>
-                <a href="mailto:aziz.shaikh@example.com" className="text-muted-foreground hover:text-foreground transition-colors">
-                  aziz.shaikh@example.com
+                <a href="mailto:aziz.shaikh@aaditechs.in" className="text-muted-foreground hover:text-foreground transition-colors">
+                  aziz.shaikh@aaditechs.in
                 </a>
               </li>
               <li>
