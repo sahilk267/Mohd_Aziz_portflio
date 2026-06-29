@@ -9,7 +9,7 @@ import StructuredData from './components/StructuredData';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://mohdazizshaikh.github.io'),
+  metadataBase: new URL('https://sahilk267.github.io/Mohd_Aziz_portflio'),
   title: {
     default: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     template: '%s | Mohd Aziz Shaikh Portfolio',
@@ -23,13 +23,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://mohdazizshaikh.github.io',
+    url: 'https://sahilk267.github.io/Mohd_Aziz_portflio',
     siteName: 'Mohd Aziz Shaikh Portfolio',
     title: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     description: 'Experienced IT Infrastructure & Network Operations Professional with expertise in enterprise infrastructure, network operations, Linux systems, Windows administration, automation workflows, AI-assisted solution development and business platform architecture.',
     images: [
       {
-        url: '/og-image.png',
+        url: '/Mohd_Aziz_portflio/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Mohd Aziz Shaikh Portfolio',
@@ -40,12 +40,17 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Mohd Aziz Shaikh | IT Infrastructure & Network Operations Professional',
     description: 'Experienced IT Infrastructure & Network Operations Professional with expertise in enterprise infrastructure, network operations, Linux systems, Windows administration, automation workflows, AI-assisted solution development and business platform architecture.',
-    images: ['/og-image.png'],
+    images: ['/Mohd_Aziz_portflio/og-image.png'],
     creator: '@mohdazizshaikh',
   },
   verification: {
     google: 'google-site-verification-code',
   },
+  icons: {
+    icon: '/Mohd_Aziz_portflio/favicon.ico',
+    apple: '/Mohd_Aziz_portflio/apple-touch-icon.png',
+  },
+  manifest: '/Mohd_Aziz_portflio/manifest.json',
 };
 
 export default function RootLayout({
@@ -56,9 +61,6 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-        <link rel="manifest" href="/manifest.json" />
         <StructuredData />
       </head>
       <body className={`${inter.className} antialiased`}>
