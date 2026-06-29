@@ -66,7 +66,7 @@ export default function ContactPage() {
                 <h2 className="text-2xl font-bold text-foreground mb-6">Connect Online</h2>
                 <div className="space-y-4">
                   <a
-                    href="https://linkedin.com/in/mohdazizshaikh"
+                    href="https://www.linkedin.com/in/mohdazizshaikh/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center p-4 bg-muted rounded-lg border border-border hover:shadow-md transition-all"
