@@ -186,8 +186,8 @@ export default function ResumePage() {
                 </li>
                 <li className="flex items-center text-muted-foreground">
                   <Phone className="w-5 h-5 mr-3 text-primary" />
-                  <a href="tel:+919876543210" className="hover:text-primary transition-colors">
-                    +91 98765 43210
+                  <a href="tel:+919773693440" className="hover:text-primary transition-colors">
+                    +91 97736 93440
                   </a>
                 </li>
                 <li className="flex items-center text-muted-foreground">
