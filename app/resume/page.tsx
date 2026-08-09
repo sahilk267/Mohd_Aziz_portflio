@@ -87,11 +87,11 @@ const education = [
   },
   {
     degree: 'Higher Secondary Certificate (XII)',
-    school: 'State Board of Education',
+    school: 'Maharashta State Board and Higher Secondary Board',
     location: 'India',
-    period: '2008 - 2010',
+    period: '2010 - 2011',
     highlights: [
-      'Science stream with Computer Science',
+      'Commerce with Maths',
       'Top 10% in district',
     ],
   },
